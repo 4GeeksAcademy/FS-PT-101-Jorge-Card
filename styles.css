@@ -1,0 +1,102 @@
+body{
+  background-color: black;
+}
+.postIG{
+  height: 57%;
+  width: 28%;
+  margin: auto;
+  margin-top: 10%;
+  font-family: "Roboto", serif;
+  background-color: white;
+}
+.postHeader{
+  height: 10%;
+  width: 100%;
+  float: left;
+}
+.postIMG{
+  height: 55%;
+  width: 100%;
+  float: left;
+
+}
+.postIcons{
+  height: 10%;
+  width: 100%;
+  float: left;
+}
+.postDescription{
+  height: 23.9%;
+  width: 100%;
+  float: left;
+
+}
+.postLogo{
+  height: 100%;
+  width: 12%;
+  float: left;
+}
+.textHeader{
+  height: 100%;
+  width: 75%;
+  float: left;
+}
+.postOptions{
+  height: 100%;
+  width: 11.8%;
+  float: left;
+}
+.htmlLogo{
+  width: 60%;
+  height: 50%;
+    display: flex;
+    margin: auto;
+    padding-top: 15px;
+}
+.header{
+  display: flex;
+  line-height: 0.7px;
+  padding-top: 7px;
+}
+.options{
+  width: 50%;
+  height: 50%;
+    display: flex;
+    margin: auto;
+    padding-top: 15px;
+}
+.mainIMG{
+  width: 100%;
+  height: 100%;
+}
+.blankSpace{
+    width: 2%;
+    height: 100%;
+    float: left;
+}
+.divIcons{
+  width: 9%;
+  height: 100%;
+  float: left;
+}
+.divBookmark{
+  width: 9%;
+  height: 100%;
+  float: right;
+}
+.icons{
+    width: 70%;
+    height: 50%;
+      display: flex;
+      margin: auto;
+      padding-top: 15px;
+}
+.bookmark{
+    width: 70%;
+    height: 50%;
+      display: flex;
+      padding-top: 15px;
+}
+.description{
+  margin: 20px 20px 20px 20px;
+}
